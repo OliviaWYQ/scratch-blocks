@@ -27,7 +27,8 @@
   },
   "dependencies": {
     "exports-loader": "0.6.3",
-    "imports-loader": "0.6.5"
+    "imports-loader": "0.6.5",
+    "scratch-vm": "^0.2.0-prerelease.20181221211506"
   },
   "devDependencies": {
     "async": "2.6.0",
